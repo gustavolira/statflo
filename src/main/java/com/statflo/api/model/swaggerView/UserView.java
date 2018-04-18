@@ -8,7 +8,6 @@ import io.swagger.annotations.ApiModelProperty;
 public class UserView {
 	
 	@NotNull
-	@ApiModelProperty(example="aaaaaaaaaaaaaaaaaa", notes="bbbbbbbbbbbbbbbbbbbb")
 	private String name; 
 	
 	@NotNull
