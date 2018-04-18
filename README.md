@@ -28,3 +28,11 @@ To query a specific user
 
 Save user
 ```POST http://localhost:8182/users/```
+
+![GET API](https://i.imgur.com/YhkWjU5.png)
+
+![GET API](https://i.imgur.com/Hh6Uhc7.png)
+
+![POST API](https://i.imgur.com/vVgfdtD.png)
+
+![POST API](https://i.imgur.com/eHUdZHz.png)
